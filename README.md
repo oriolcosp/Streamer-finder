@@ -43,3 +43,5 @@ Finally, click the "Create File" button and a "streamer list.csv" file should ap
 I'm not actively developing this tool, as my focus is on making games. If I encounter a bug while using it I'll probably fix it and upload it, but I probably won't be addressing any bug reports.
 
 If someone wants to develop the tool further, contact me.
+
+For advanced use, I've included the source code in python.
