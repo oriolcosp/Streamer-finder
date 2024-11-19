@@ -1,5 +1,6 @@
 # Streamer-finder
-This repository contains the source code for the streamer-finder tool, you can use it to get intermediate results, fix bugs or whatever.
+This repository contains the source code for the streamer-finder tool, you can use it to get intermediate results or improve the tool.
+If you're looking for the tool itself, [you can find it here](https://oriolcosp.com/a-tool-to-find-content-creators-who-played-games-from-a-list/).
 
 ## Description
 I built this tool to easily find content creators from Twitch and YouTube who could play my games.
